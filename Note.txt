@@ -3,6 +3,5 @@ Console.ForegroundColor = ConsoleColor.Red;
 Console.ResetColor();
 بإستخدام ChatGPT
 
-عملت كود ال Find Number و لما مجبش نتيجة 
-اضطريت إنى استخدم ChatGPT 
-و فهمت الدنيا فى الآخر
+عملت بقيت كود ال Find Number 
+بإستخدام ChatGPT
